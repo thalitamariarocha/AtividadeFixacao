@@ -79,28 +79,31 @@
     
         <div class="row">
         <div class="card col" style="width: 18rem;">
-            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Jane Doe</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <a href="#" class="btn btn-primary">See Profile</a>
             </div>
+            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
+
         </div>
         <div class="card col" style="width: 18rem;">
-            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Jane Doe</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <a href="#" class="btn btn-primary">See Profile</a>
             </div>
+            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
+
         </div>
         <div class="card col" style="width: 18rem;">
-            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Jane Doe</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <a href="#" class="btn btn-primary">See Profile</a>
             </div>
+            <img src="https://thumbs.dreamstime.com/b/o-l%C3%A1pis-desenho-cont%C3%ADnuo-da-menina-leu-projeto-minimalista-do-livro-vetor-esbo%C3%A7o-ilustra%C3%A7%C3%A3o-isolada-educa%C3%A7%C3%A3o-pessoa-149328156.jpg" class="card-img-top" alt="...">
+
         </div>
         </div> <!-- aqui acaba o row -->
 
